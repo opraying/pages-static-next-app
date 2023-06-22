@@ -1,5 +1,5 @@
 {
-  "name": "page-static-next-app",
+  "name": "pages-static-next-app",
   "private": true,
   "scripts": {
     "dev": "next",
