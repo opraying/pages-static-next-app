@@ -1,4 +1,5 @@
 {
+  "name": "page-static-next-app",
   "private": true,
   "scripts": {
     "dev": "next",
@@ -6,13 +7,15 @@
     "start": "serve out"
   },
   "dependencies": {
+    "next": "13.4.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "serve": "^14.2.0"
+  },
+  "devDependencies": {
     "@types/node": "^18.11.5",
     "@types/react-dom": "^18.0.7",
     "@types/react": "^18.0.23",
-    "next": "latest",
-    "react-dom": "^18.2.0",
-    "react": "^18.2.0",
-    "serve": "^14.2.0",
-    "typescript": "^4.8.4"
+    "typescript": "5.1.3"
   }
 }

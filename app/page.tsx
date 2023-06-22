@@ -3,7 +3,7 @@ import Link from 'next/link'
 const Home = () => {
   return (
     <div>
-      <h1>Home</h1>
+      <h1>page-static-next-app</h1>
       <p>Hello World! This is the Home page</p>
       <p>
         Visit the <Link href="/about">About</Link> page.
